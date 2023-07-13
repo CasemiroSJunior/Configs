@@ -1,0 +1,5 @@
+Comandos powershell
+
+git config --system core.longpaths true
+git config --global core.autocrlf true
+git config --global core.protectNTFS false

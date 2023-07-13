@@ -3,3 +3,7 @@ Comandos powershell
 git config --system core.longpaths true
 git config --global core.autocrlf true
 git config --global core.protectNTFS false
+
+NPM
+npm install -g nodemon
+npm install -g yarn
